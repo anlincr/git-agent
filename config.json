@@ -1,0 +1,9 @@
+{
+  "github_settings": { "default_visibility": "public", "default_branch": "main" },
+  "gemini_model": "gemini-2.5-flash",
+  "content_strategy": {
+    "tone": "Engaging, technical yet accessible, developer-focused, building-in-public",
+    "hashtags": ["#AI", "#MachineLearning", "#Python", "#OpenSource", "#DeveloperTools"],
+    "ai_ml_keywords": ["torch", "tensorflow", "scikit", "model", "training", "inference", "rag", "embeddings", "transformer", "neural"]
+  }
+}
